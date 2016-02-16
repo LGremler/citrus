@@ -13,7 +13,12 @@ I made this to help myself stay organized. Being a college student is hectic, an
 # Changelog:
 This is a work in progress. The version that is avaliable on this repo is the last fully working version I have. Some features may not be avaliable in their entirety (or at all) throughout development.
 
-V.0.02
+V.0.03:
+- Added basic Week Codes
+- Adjust file name(s) to reflect the user chosen week code
+- Updated .sdl output formatting
+
+V.0.02:
 - Updated .sdl output formatting
 
 V.0.01:
